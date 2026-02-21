@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "build_date": "2026-02-21",
-  "description": "v1.0.3",
-  "firmware_url": "https://github.com/Winstonyang2023/esp32-ota-firmware/releases/download/v1.0.3/firmware.bin",
+  "description": "v1.0.5",
+  "firmware_url": "https://github.com/Winstonyang2023/esp32-ota-firmware/releases/download/v1.0.5/firmware.bin",
   "min_version": "1.0.0"
 }
